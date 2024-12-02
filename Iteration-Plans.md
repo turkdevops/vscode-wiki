@@ -1,15 +1,79 @@
+### February 2024
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/204292)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22February+2024%22)
+
+### December 2023 / January 2024
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/201255)
+* [Endgame](https://github.com/microsoft/vscode/issues/202935)
+
+### November 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/197438)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22November+2023%22)
+
+### October 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/195109)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22October+2023%22)
+
+### September 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/192822)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22September+2023%22)
+
+### August 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/189778)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22August+2023%22)
+
+### July 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/187398)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22July+2023%22)
+
+### June 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/184844)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22June+2023%22)
+
+### May 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/181778)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22May+2023%22)
+
+### April 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/178951)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22April+2023%22)
+
+### March 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/176147)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22March+2023%22)
+
+### February 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/173445)
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22February+2023%22)
+
+
+### January 2023
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/170413 )
+* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22January+2023%22)
+
+### December 2022
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/168000)
+* No endgame since we don't produce a December release.
+
+### November 2022
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/165643)
+* [Endgame](https://github.com/microsoft/vscode/issues/167267)
+
+### October 2022
+* [Iteration Plan](https://github.com/microsoft/vscode/issues/163069)
+* [Endgame](https://github.com/microsoft/vscode/issues/164400)
+
 ### September 2022
 * [Iteration Plan](https://github.com/microsoft/vscode/issues/160046)
-* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22September+2022%22)
-
+* [Endgame](https://github.com/microsoft/vscode/issues/161755)
 
 ### August 2022
 * [Iteration Plan](https://github.com/microsoft/vscode/issues/157454)
-* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22August+2022%22)
+* [Endgame](https://github.com/microsoft/vscode/issues/158841)
 
 ### July 2022
 * [Iteration Plan](https://github.com/microsoft/vscode/issues/154652)
-* [Endgame](https://github.com/microsoft/vscode/issues?q=is%3Aissue+label%3Aendgame-plan+milestone%3A%22July+2022%22)
+* [Endgame](https://github.com/microsoft/vscode/issues/156110)
 
 ### June 2022
 * [Iteration Plan](https://github.com/microsoft/vscode/issues/151843)
